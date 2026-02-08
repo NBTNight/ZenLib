@@ -1,4 +1,4 @@
-📌  #Roblox Blox Fruits Library   
+#Roblox Blox Fruits Library   
 
 This is a simple Roblox Blox Fruits UI Library version 1.000.1
 And its very simple and a normal UI and best work Delta, Codex,Krnl ( if updates and work ) executor will work the best.
